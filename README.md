@@ -1,3 +1,3 @@
 # SAAS_Salesmonitoring
 
-## inventory management 
+## inventory
